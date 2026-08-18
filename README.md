@@ -11,7 +11,6 @@ Synthetic dataset generated to mirror real IE survey structure.
 2. Run code/02_clean_data.py
 3. Run code/03_analysis.py
 4. Run code/04_visualize.py
-OR: Open notebooks/full_pipeline.ipynb
 
 ## Key Scripts
 - [Data Cleaning](code/02_clean_data.py)

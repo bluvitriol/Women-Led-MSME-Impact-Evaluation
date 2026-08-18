@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+*.env
+
+# Virtual environments
+venv/
+wmfenv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+
+# OS junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build artifacts
+*.log
+
+# Token safety
+*.json
+*.pem
+
+# junk files
+self_files/

@@ -1,0 +1,521 @@
+business_id,state,district,treatment,sector,business_age_years,owner_education,loan_access_baseline,employees_baseline,baseline_revenue_inr,endline_revenue_inr,survey_date
+MSME0001,Rajasthan,Ajmer,1,Retail,1,Primary,0,14.0,39671.66,43044.83,2023-03-21
+MSME0002,Uttar Pradesh,Agra,1,Services,14,Primary,1,10.0,49137.08,58899.11,11/12/2022
+MSME0003,Maharashtra,Pune,1,Manufacturing,5,Graduate,1,11.0,21146.1,25124.13,2023-04-16
+MSME0004,Bihar,Muzaffarpur,1,Manufacturing,11,Primary,1,6.0,55172.63,64348.01,04/06/2023
+MSME0005,Gujarat,Surat,1,Retail,16,Graduate,0,14.0,10458.75,10663.16,15/01/2022
+MSME0006,Gujarat,Surat,0,Retail,2,Primary,0,9.0,8454.69,9494.42,01/22/2023
+MSME0006,Bihar,Patna,0,Services,8,Primary,0,9.0,5605.71,6850.57,09/03/2023
+MSME0008,Uttar Pradesh,Agra,1,Agri-processing,11,Primary,0,8.0,24356.7,28034.93,2023-11-03
+MSME0009,Gujarat,Surat,0,Retail,18,Secondary,1,5.0,19877.85,17797.92,03/13/2023
+MSME0010,Maharashtra,Nagpur,0,Agri-processing,3,No formal education,1,1.0,68285.48,68484.21,04/07/2022
+MSME0010,Uttar Pradesh,Agra,1,MANUFACTURING,1,,0,9.0,21613.43,27315.78,2022-09-10
+MSME0012,Maharashtra,Nashik,0,Manufacturing,11,Graduate,1,1.0,45193.16,42412.93,08/03/2022
+MSME0013,Rajasthan,Ajmer,0,Manufacturing,16,No formal education,0,8.0,69608.17,68710.93,2023-10-02
+MSME0014,Uttar Pradesh,Agra,1,RETAIL,18,Secondary,0,5.0,20972.03,24939.41,2022-08-13
+MSME0015,Gujarat,Vadodara,1,Retail,16,Secondary,0,3.0,46094.17,59385.45,2023-07-11
+MSME0016,Uttar Pradesh,Agra,1,Services,10,Primary,1,11.0,80946.36,100306.61,16/10/2022
+MSME0017,Uttar Pradesh,Agra,1,Retail,18,Secondary,0,7.0,13486.84,16776.82,12/06/2023
+MSME0018,Uttar Pradesh,Lucknow,1,Agri-processing,6,Primary,1,7.0,37044.75,40785.49,2023-02-18
+MSME0019,Uttar Pradesh,Agra,0,MANUFACTURING,19,Secondary,1,9.0,21044.04,21889.84,2023-07-09
+MSME0020,Maharashtra,Nagpur,1,Retail,4,Primary,0,7.0,14191.64,15142.11,2023-09-07
+MSME0021,Rajasthan,Jodhpur,1,Services,13,,0,13.0,10623.66,13250.2,02/17/2022
+MSME0022,Bihar,Gaya,0,Retail,14,,1,11.0,14009.36,15622.15,18/04/2023
+MSME0023,Uttar Pradesh,Kanpur,0,Manufacturing,3,Secondary,0,14.0,38102.04,40210.47,06/20/2023
+MSME0024,Gujarat,Rajkot,1,Services,10,No formal education,1,3.0,10009.85,,2022-10-11
+MSME0025,Uttar Pradesh,Agra,1,Agri-processing,6,Primary,1,11.0,23374.91,,2022-06-13
+MSME0026,Gujarat,Vadodara,1,Services,1,Primary,0,13.0,69602.48,94502.73,11/02/2022
+MSME0027,Maharashtra,Nagpur,0,Services,14,No formal education,0,14.0,52010.91,50186.83,2022-01-16
+MSME0028,Gujarat,Rajkot,1,Services,8,Graduate,1,13.0,23756.08,30188.03,23/03/2023
+MSME0029,Bihar,Gaya,1,Agri-processing,19,Primary,1,1.0,140330.04,166848.56,2023-03-22
+MSME0030,Rajasthan,Jaipur,0,Retail,14,Graduate,0,8.0,165120.23,159602.96,2023-09-06
+MSME0030,Gujarat,Vadodara,1,Retail,10,Graduate,0,12.0,37082.41,,04/21/2022
+MSME0032,Gujarat,Vadodara,0,Retail,17,Secondary,0,3.0,5040.02,5146.67,2022-03-01
+MSME0033,Rajasthan,Jaipur,0,Retail,9,No formal education,1,12.0,73803.29,,2022-12-23
+MSME0034,Bihar,Patna,1,Services,6,Primary,1,8.0,5795.4,7868.71,2022-09-24
+MSME0035,Uttar Pradesh,Agra,0,Services,11,Secondary,1,8.0,118292.65,108117.2,11/15/2023
+MSME0036,Gujarat,Rajkot,1,manufacturing,7,Primary,0,13.0,86410.8,122176.09,11/03/2022
+MSME0037,Rajasthan,Jaipur,0,Retail,17,No formal education,0,5.0,150146.99,155834.71,07/01/2022
+MSME0038,Maharashtra,Pune,1,Services,1,Secondary,1,13.0,44721.63,53373.04,2022-07-26
+MSME0039,Rajasthan,Ajmer,0,RETAIL,5,Graduate,0,12.0,27197.8,25584.77,2022-06-20
+MSME0040,Maharashtra,Nagpur,1,Services,9,Secondary,0,13.0,25334.42,30051.46,2023-06-12
+MSME0041,Bihar,Patna,0,MANUFACTURING,18,No formal education,0,1.0,23458.59,24568.3,2023-01-19
+MSME0042,Uttar Pradesh,Agra,0,Retail,2,,1,13.0,79606.81,87068.57,01/02/2022
+MSME0043,Rajasthan,Jodhpur,1,Retail,11,Primary,1,10.0,64203.77,66610.96,08/15/2022
+MSME0044,Gujarat,Surat,0,Retail,6,,0,7.0,39981.84,45606.4,04/05/2022
+MSME0045,Bihar,Gaya,1,Services,8,Graduate,0,12.0,20378.89,24282.73,2022-06-24
+MSME0046,Rajasthan,Ajmer,1,Agri-processing,4,Primary,0,10.0,297559.68,363006.84,2022-06-19
+MSME0047,Gujarat,Surat,1,Services,18,Primary,1,5.0,75350.04,84738.02,16/10/2023
+MSME0048,Rajasthan,Jodhpur,1,Retail,11,No formal education,0,8.0,10115.56,10553.2,09/01/2022
+MSME0049,Maharashtra,Pune,1,manufacturing,5,Graduate,0,9.0,24028.48,27833.71,12/24/2022
+MSME0050,Rajasthan,Jodhpur,0,Services,15,Secondary,0,11.0,76528.68,77962.03,2022-10-12
+MSME0051,Rajasthan,Ajmer,1,services,18,Secondary,1,14.0,19155.95,18977.34,2022-04-02
+MSME0052,Rajasthan,Ajmer,0,Retail,2,Secondary,0,7.0,48109.66,51926.13,2023-08-26
+MSME0053,Bihar,Patna,1,Retail,11,No formal education,0,14.0,77702.06,98262.05,2022-02-06
+MSME0054,Rajasthan,Jodhpur,0,Services,13,Primary,0,13.0,2414.52,2238.34,2023-10-11
+MSME0055,Gujarat,Surat,0,Manufacturing,4,Primary,1,,33308.56,29902.48,2023-08-04
+MSME0056,Maharashtra,Pune,1,Retail,7,No formal education,0,1.0,34370.96,38329.1,2022-12-04
+MSME0057,Maharashtra,Nagpur,0,Retail,11,Primary,1,4.0,26117.01,26179.42,26/03/2023
+MSME0058,Rajasthan,Jodhpur,1,Manufacturing,4,Graduate,0,2.0,46228.7,51758.59,03/27/2022
+MSME0059,Bihar,Gaya,0,Agri-processing,15,No formal education,0,2.0,61452.25,61077.89,2023-11-03
+MSME0060,Bihar,Muzaffarpur,1,agri-processing,1,Primary,0,2.0,40686.06,47825.24,07/01/2022
+MSME0061,Gujarat,Surat,0,Manufacturing,3,Primary,1,4.0,26928.44,23243.9,21/09/2023
+MSME0062,Rajasthan,Jaipur,1,Manufacturing,14,Primary,0,14.0,60240.31,60593.98,15/06/2022
+MSME0063,Maharashtra,Nashik,1,retail,6,Graduate,1,1.0,37768.95,31610.28,11/03/2022
+MSME0064,Bihar,Gaya,0,Manufacturing,18,Primary,1,4.0,30195.24,33041.28,03/13/2022
+MSME0065,Rajasthan,Ajmer,1,manufacturing,1,Primary,0,2.0,12710.41,14639.23,09/08/2023
+MSME0066,Bihar,Muzaffarpur,1,Services,6,Secondary,1,5.0,10403.28,13217.39,12/21/2022
+MSME0067,Bihar,Muzaffarpur,1,Manufacturing,6,,1,3.0,12519.17,12759.04,09/18/2023
+MSME0068,Maharashtra,Pune,1,Retail,16,Primary,0,12.0,45372.58,52305.82,2023-03-03
+MSME0069,Uttar Pradesh,Agra,1,Retail,5,Primary,0,,34089.24,40044.8,25/02/2023
+MSME0070,Gujarat,Surat,1,Retail,17,Secondary,1,,11111.91,12060.81,18/10/2022
+MSME0071,Gujarat,Surat,1,Retail,10,Graduate,0,1.0,60884.52,,17/10/2023
+MSME0072,Maharashtra,Pune,1,Retail,18,Secondary,1,1.0,109037.55,147285.22,23/08/2023
+MSME0073,Bihar,Gaya,0,Agri-processing,7,Primary,1,12.0,22498.53,25646.71,2022-08-02
+MSME0074,Rajasthan,Jaipur,1,Manufacturing,3,,0,,9020.13,9976.97,02/09/2023
+MSME0075,Bihar,Patna,1,MANUFACTURING,13,No formal education,1,3.0,20592.84,24890.08,04/13/2022
+MSME0076,Maharashtra,Nagpur,1,Agri-processing,15,No formal education,0,9.0,71938.62,78718.77,08/23/2023
+MSME0077,Gujarat,Surat,1,Agri-processing,19,Primary,0,7.0,56321.06,58322.07,22/10/2023
+MSME0078,Bihar,Muzaffarpur,0,Manufacturing,3,Primary,0,2.0,17362.25,,2022-10-10
+MSME0079,Gujarat,Rajkot,1,SERVICES,4,Secondary,0,13.0,122631.32,117681.01,20/10/2022
+MSME0080,Rajasthan,Jaipur,1,Retail,5,Secondary,1,9.0,106790.48,119302.81,03/20/2023
+MSME0081,Gujarat,Vadodara,0,Retail,1,Graduate,1,10.0,20203.18,20373.54,05/04/2022
+MSME0082,Gujarat,Rajkot,0,Manufacturing,4,Secondary,1,2.0,20037.64,23346.33,2023-07-08
+MSME0083,Uttar Pradesh,Kanpur,1,Services,12,Secondary,0,3.0,22600.73,28321.15,02/12/2022
+MSME0084,Uttar Pradesh,Kanpur,0,services,10,No formal education,0,11.0,24200.63,20153.68,25/09/2022
+MSME0085,Uttar Pradesh,Agra,0,Retail,13,No formal education,1,13.0,77686.01,77664.64,2023-03-14
+MSME0086,Gujarat,Vadodara,1,Retail,14,Secondary,0,10.0,51034.81,58813.64,2022-10-06
+MSME0087,Maharashtra,Nashik,0,Services,5,Primary,1,14.0,73252.16,71579.53,01/17/2023
+MSME0088,Gujarat,Vadodara,0,Retail,4,Graduate,1,2.0,62246.16,66104.23,2022-10-18
+MSME0089,Maharashtra,Nashik,1,Manufacturing,14,No formal education,1,3.0,143146.18,141421.66,2022-05-01
+MSME0090,Maharashtra,Pune,1,SERVICES,10,No formal education,1,6.0,15560.51,17163.35,2023-01-03
+MSME0090,Uttar Pradesh,Agra,1,Services,17,Primary,0,9.0,49231.4,59326.99,22/09/2022
+MSME0092,Bihar,Muzaffarpur,0,Services,10,Primary,1,9.0,6380.13,6813.7,25/12/2022
+MSME0093,Rajasthan,Ajmer,0,Agri-processing,7,No formal education,0,7.0,12662.95,12852.16,01/03/2023
+MSME0093,Uttar Pradesh,Agra,0,MANUFACTURING,16,Secondary,1,12.0,34204.66,33218.23,2023-06-25
+MSME0095,Uttar Pradesh,Kanpur,1,Services,1,No formal education,0,3.0,50744.84,57656.63,04/23/2023
+MSME0096,Bihar,Patna,0,Services,17,,1,4.0,33474.77,35953.27,15/11/2022
+MSME0097,Rajasthan,Ajmer,1,Retail,9,Primary,1,6.0,23069.02,26619.31,2023-09-24
+MSME0098,Gujarat,Vadodara,1,Retail,6,No formal education,0,11.0,26594.66,27397.49,07/01/2023
+MSME0099,Gujarat,Surat,1,Retail,19,Primary,0,5.0,108613.69,109498.65,10/20/2022
+MSME0100,Uttar Pradesh,Lucknow,0,Manufacturing,13,Graduate,1,2.0,26709.49,22730.75,02/11/2022
+MSME0101,Rajasthan,Jaipur,1,Services,3,Primary,0,13.0,147177.31,193890.17,07/02/2022
+MSME0102,Uttar Pradesh,Lucknow,0,Services,7,,0,6.0,68542.8,74077.37,2023-02-26
+MSME0103,Maharashtra,Nashik,1,Retail,9,No formal education,0,3.0,52366.89,59580.64,10/10/2022
+MSME0104,Uttar Pradesh,Agra,1,RETAIL,5,Secondary,0,14.0,13976.36,15343.44,23/11/2022
+MSME0105,Uttar Pradesh,Kanpur,1,Agri-processing,10,Primary,1,8.0,76740.93,83187.02,2022-04-18
+MSME0106,Gujarat,Vadodara,1,Retail,17,Secondary,0,2.0,24464.63,31210.07,07/01/2022
+MSME0107,Gujarat,Vadodara,0,Manufacturing,12,Secondary,0,1.0,13966.94,16626.85,04/10/2023
+MSME0108,Gujarat,Surat,1,Manufacturing,16,Graduate,0,9.0,54735.89,59135.55,13/04/2023
+MSME0109,Maharashtra,Pune,0,Manufacturing,3,Primary,0,14.0,11963.83,13325.81,06/10/2022
+MSME0110,Gujarat,Rajkot,1,Retail,9,No formal education,0,12.0,19736.14,22760.14,03/04/2023
+MSME0111,Rajasthan,Jaipur,0,Retail,15,No formal education,0,3.0,36022.8,35257.57,04/01/2022
+MSME0112,Bihar,Patna,1,Retail,5,Graduate,0,11.0,214215.36,283403.63,26/12/2023
+MSME0113,Rajasthan,Jaipur,0,Manufacturing,13,Secondary,0,1.0,20962.02,20940.71,2023-11-08
+MSME0114,Rajasthan,Jodhpur,0,Manufacturing,14,,1,7.0,25170.47,25916.43,03/10/2022
+MSME0115,Gujarat,Vadodara,1,RETAIL,15,Primary,0,13.0,65243.13,,04/02/2023
+MSME0116,Bihar,Muzaffarpur,1,Services,16,Primary,0,10.0,13485.41,12987.2,10/18/2023
+MSME0117,Bihar,Patna,0,Services,13,No formal education,0,5.0,51753.38,53246.01,10/11/2022
+MSME0118,Bihar,Patna,0,Retail,17,Graduate,0,5.0,95295.84,89933.62,04/22/2022
+MSME0119,Maharashtra,Nashik,1,Manufacturing,8,Secondary,1,14.0,28405.1,28023.55,2023-09-07
+MSME0120,Gujarat,Surat,0,Services,2,Graduate,0,1.0,82530.52,78262.56,06/16/2022
+MSME0121,Bihar,Patna,0,Retail,5,Primary,1,9.0,45851.35,43442.37,2022-05-23
+MSME0122,Maharashtra,Nagpur,0,Retail,6,Secondary,1,7.0,20240.78,22325.34,07/09/2023
+MSME0123,Uttar Pradesh,Agra,0,Services,12,Secondary,0,8.0,31000.43,27702.63,13/11/2023
+MSME0124,Uttar Pradesh,Agra,0,Agri-processing,18,Primary,1,9.0,26800.99,24684.12,04/03/2023
+MSME0125,Maharashtra,Nashik,1,SERVICES,1,Graduate,0,6.0,33856.61,39851.58,12/02/2023
+MSME0126,Maharashtra,Nashik,1,Manufacturing,17,Graduate,0,12.0,41034.74,40933.54,04/05/2023
+MSME0127,Gujarat,Vadodara,1,Services,11,Graduate,0,5.0,58137.14,62451.74,05/11/2023
+MSME0128,Gujarat,Vadodara,0,Manufacturing,10,Secondary,0,6.0,54553.36,45473.08,06/09/2022
+MSME0129,Uttar Pradesh,Lucknow,0,SERVICES,19,Primary,1,11.0,5190.73,5668.28,10/16/2022
+MSME0130,Bihar,Patna,1,Manufacturing,14,Primary,1,2.0,33595.7,37470.74,10/19/2023
+MSME0131,Uttar Pradesh,Lucknow,0,Retail,10,Graduate,1,4.0,10855.88,10838.6,05/17/2023
+MSME0132,Bihar,Patna,0,Services,15,No formal education,0,3.0,29126.92,31794.98,2022-08-27
+MSME0133,Bihar,Gaya,1,Manufacturing,19,,0,13.0,32891.46,35093.18,2022-09-15
+MSME0134,Gujarat,Rajkot,1,Manufacturing,4,Secondary,0,7.0,79294.07,88343.23,2023-04-18
+MSME0135,Rajasthan,Jodhpur,1,agri-processing,2,,1,9.0,35451.03,36462.18,2022-08-16
+MSME0136,Rajasthan,Jaipur,1,Retail,9,Graduate,0,5.0,44684.16,45947.48,02/10/2023
+MSME0137,Maharashtra,Nagpur,1,Retail,10,Primary,1,6.0,68490.14,71512.82,2022-11-11
+MSME0137,Gujarat,Rajkot,1,Retail,11,Primary,0,10.0,96974.35,106028.23,02/09/2022
+MSME0139,Bihar,Muzaffarpur,1,Services,14,No formal education,0,14.0,32911.88,36392.26,01/09/2022
+MSME0140,Rajasthan,Jodhpur,1,Services,7,Primary,1,12.0,39157.36,46330.7,2022-06-07
+MSME0141,Bihar,Gaya,1,retail,15,Primary,0,12.0,36607.87,38347.12,2022-03-19
+MSME0142,Rajasthan,Jodhpur,1,Services,19,Primary,0,2.0,23527.4,27921.32,04/01/2023
+MSME0143,Rajasthan,Jaipur,0,MANUFACTURING,15,Graduate,1,3.0,19627.91,20579.87,2022-08-26
+MSME0144,Rajasthan,Jodhpur,1,Services,8,Graduate,0,3.0,5898.72,6466.18,12/23/2022
+MSME0145,Gujarat,Vadodara,0,Manufacturing,11,No formal education,1,12.0,15346.94,14111.93,2022-08-01
+MSME0146,Uttar Pradesh,Kanpur,0,MANUFACTURING,9,Primary,0,12.0,8752.51,,11/05/2023
+MSME0147,Bihar,Muzaffarpur,1,AGRI-PROCESSING,15,Graduate,1,9.0,99127.16,111683.06,15/07/2023
+MSME0148,Gujarat,Rajkot,1,Retail,1,No formal education,1,7.0,42223.52,49627.02,11/03/2022
+MSME0149,Gujarat,Surat,1,Retail,1,No formal education,0,8.0,32834.95,43688.04,10/08/2023
+MSME0150,Gujarat,Surat,1,Manufacturing,19,,0,11.0,20455.6,23685.4,24/07/2022
+MSME0151,Gujarat,Rajkot,0,Agri-processing,3,Secondary,1,10.0,37191.05,34813.68,2023-12-26
+MSME0152,Gujarat,Rajkot,1,Manufacturing,10,No formal education,0,11.0,18427.81,19304.01,06/01/2023
+MSME0153,Maharashtra,Nashik,1,RETAIL,8,Graduate,1,9.0,41739.99,43910.33,10/18/2022
+MSME0154,Bihar,Gaya,1,Retail,15,Primary,0,,44204.73,43399.41,16/08/2023
+MSME0155,Gujarat,Vadodara,1,Manufacturing,10,Secondary,0,4.0,18231.26,22921.54,11/24/2023
+MSME0156,Bihar,Muzaffarpur,0,Retail,1,Primary,1,12.0,17955.12,13945.24,03/27/2022
+MSME0157,Maharashtra,Nagpur,1,Services,18,,1,1.0,78414.14,94577.8,10/05/2022
+MSME0158,Maharashtra,Nagpur,1,AGRI-PROCESSING,2,Secondary,0,8.0,34811.81,36558.41,14/01/2023
+MSME0159,Bihar,Patna,1,Manufacturing,19,Secondary,1,,19441.86,21212.49,02/25/2022
+MSME0160,Rajasthan,Ajmer,0,Manufacturing,13,Secondary,0,2.0,27000.08,24575.5,20/07/2023
+MSME0161,Uttar Pradesh,Agra,1,Manufacturing,1,Secondary,0,8.0,16179.9,21297.18,01/12/2023
+MSME0162,Rajasthan,Jodhpur,1,Retail,2,Graduate,1,12.0,34415.18,39642.03,2023-03-16
+MSME0163,Rajasthan,Ajmer,0,Agri-processing,16,Graduate,1,5.0,70636.53,76219.48,12/05/2023
+MSME0164,Rajasthan,Jaipur,1,Manufacturing,15,Secondary,1,7.0,35520.44,46160.96,2023-06-26
+MSME0165,Gujarat,Surat,0,Manufacturing,13,No formal education,0,4.0,240603.77,244535.37,13/03/2022
+MSME0166,Maharashtra,Pune,0,Services,16,No formal education,0,5.0,50873.0,44790.51,03/26/2022
+MSME0167,Rajasthan,Ajmer,0,Manufacturing,17,Primary,0,8.0,43650.22,42687.11,11/27/2022
+MSME0167,Maharashtra,Nashik,0,Services,7,Secondary,0,1.0,17559.64,16256.28,2023-06-27
+MSME0169,Bihar,Muzaffarpur,0,Retail,17,Primary,0,1.0,30006.62,28495.77,24/05/2022
+MSME0170,Uttar Pradesh,Agra,0,Services,7,Primary,1,4.0,19473.09,,21/11/2023
+MSME0171,Bihar,Muzaffarpur,0,Agri-processing,13,Graduate,0,3.0,6421.99,6335.84,2023-06-04
+MSME0172,Bihar,Patna,0,Services,5,Graduate,1,13.0,79174.52,82437.37,02/17/2023
+MSME0173,Gujarat,Vadodara,1,Agri-processing,17,Graduate,1,10.0,24121.03,29285.11,13/06/2022
+MSME0174,Uttar Pradesh,Lucknow,1,Retail,3,Primary,0,12.0,19765.24,22425.11,03/05/2022
+MSME0175,Bihar,Muzaffarpur,1,Manufacturing,7,,1,2.0,42978.53,51419.47,2023-03-03
+MSME0176,Bihar,Patna,1,Services,17,Primary,1,12.0,54720.83,59471.89,18/10/2023
+MSME0177,Uttar Pradesh,Agra,1,Manufacturing,7,No formal education,0,3.0,28095.93,36558.42,2022-08-26
+MSME0178,Uttar Pradesh,Agra,1,MANUFACTURING,1,No formal education,0,11.0,36240.0,39319.17,25/08/2023
+MSME0179,Bihar,Patna,1,Retail,17,Primary,0,11.0,65969.64,84947.55,2023-11-24
+MSME0180,Uttar Pradesh,Agra,0,Retail,17,Primary,0,14.0,27223.75,23205.34,03/12/2022
+MSME0180,Bihar,Gaya,0,Manufacturing,11,Graduate,1,11.0,46252.32,44492.85,07/12/2023
+MSME0182,Bihar,Muzaffarpur,1,Retail,3,No formal education,0,1.0,9629.67,10707.59,09/16/2022
+MSME0183,Gujarat,Vadodara,1,Services,15,Secondary,1,1.0,13452.83,15902.38,26/11/2022
+MSME0184,Rajasthan,Jodhpur,0,Retail,11,Secondary,1,6.0,58949.23,64029.57,09/10/2023
+MSME0185,Bihar,Muzaffarpur,1,Retail,16,Primary,0,5.0,12902.2,12983.74,19/08/2022
+MSME0186,Maharashtra,Pune,0,Manufacturing,9,Primary,1,8.0,43796.54,38943.96,09/01/2023
+MSME0187,Rajasthan,Jodhpur,1,Manufacturing,1,Primary,0,2.0,32286.39,31924.15,2022-09-24
+MSME0188,Rajasthan,Jaipur,1,Agri-processing,16,Secondary,0,4.0,27130.84,35319.5,2023-06-07
+MSME0189,Rajasthan,Jodhpur,0,Manufacturing,9,,1,8.0,18717.79,19274.84,12/11/2022
+MSME0190,Gujarat,Rajkot,1,Retail,19,No formal education,0,12.0,75167.33,77068.86,10/12/2022
+MSME0191,Bihar,Muzaffarpur,0,Services,12,No formal education,0,6.0,144916.49,138495.31,10/04/2023
+MSME0192,Gujarat,Vadodara,0,Manufacturing,19,Secondary,0,1.0,46173.15,51629.71,12/05/2023
+MSME0192,Bihar,Muzaffarpur,1,Retail,9,Graduate,0,,47004.22,52551.48,08/03/2023
+MSME0194,Gujarat,Vadodara,0,Manufacturing,7,Primary,1,1.0,21039.05,20329.64,2022-09-18
+MSME0195,Gujarat,Rajkot,0,Agri-processing,14,,0,13.0,13948.43,12858.64,09/10/2023
+MSME0196,Maharashtra,Pune,1,Manufacturing,19,Secondary,0,2.0,35179.15,36309.31,15/05/2023
+MSME0197,Gujarat,Rajkot,0,Retail,19,Graduate,0,,16663.9,18635.78,2023-06-12
+MSME0198,Uttar Pradesh,Lucknow,1,Retail,2,Graduate,1,14.0,8794.76,11806.96,2022-03-19
+MSME0199,Maharashtra,Nashik,0,Retail,9,Secondary,0,8.0,69061.77,62257.85,11/10/2023
+MSME0200,Gujarat,Surat,0,Manufacturing,13,Secondary,0,8.0,71806.73,81895.16,2023-10-13
+MSME0201,Rajasthan,Ajmer,1,Manufacturing,15,Graduate,0,11.0,18268.42,19984.74,2022-12-26
+MSME0202,Uttar Pradesh,Lucknow,0,Retail,3,,0,,44142.2,46497.84,09/23/2022
+MSME0203,Uttar Pradesh,Kanpur,0,Agri-processing,11,Primary,1,11.0,80947.96,92363.36,2023-11-12
+MSME0204,Uttar Pradesh,Kanpur,0,Services,14,No formal education,1,13.0,42788.36,42167.6,25/08/2023
+MSME0205,Maharashtra,Pune,0,Manufacturing,8,Graduate,0,4.0,13981.3,13522.8,14/05/2023
+MSME0206,Gujarat,Rajkot,0,Services,18,Graduate,1,10.0,30142.31,,19/05/2023
+MSME0207,Gujarat,Surat,1,Retail,19,No formal education,0,11.0,104971.85,107318.54,2022-08-04
+MSME0208,Rajasthan,Ajmer,0,Manufacturing,16,Secondary,1,14.0,44250.47,49326.27,06/05/2023
+MSME0209,Rajasthan,Jodhpur,1,Services,2,Primary,1,6.0,55899.22,65202.14,13/10/2023
+MSME0210,Uttar Pradesh,Agra,1,Services,8,No formal education,0,11.0,47729.43,51717.63,2023-08-04
+MSME0211,Rajasthan,Jodhpur,0,SERVICES,6,Graduate,1,11.0,18317.11,17210.45,17/02/2022
+MSME0212,Maharashtra,Nashik,1,retail,12,Primary,1,10.0,22099.8,21898.73,26/11/2023
+MSME0213,Gujarat,Rajkot,1,Agri-processing,15,No formal education,0,3.0,47624.0,51831.11,27/07/2023
+MSME0214,Uttar Pradesh,Agra,1,Retail,8,Secondary,0,2.0,69807.55,78159.02,2023-06-01
+MSME0215,Rajasthan,Jaipur,1,Agri-processing,4,Secondary,0,6.0,87546.38,89993.41,12/02/2022
+MSME0216,Maharashtra,Pune,0,Agri-processing,15,No formal education,1,11.0,18279.14,18196.03,16/11/2023
+MSME0217,Maharashtra,Nagpur,1,Retail,17,Secondary,1,13.0,51353.91,61849.91,01/10/2023
+MSME0218,Rajasthan,Jodhpur,0,Services,13,,1,5.0,93867.11,91863.3,19/11/2022
+MSME0218,Gujarat,Surat,1,RETAIL,18,No formal education,1,14.0,16487.12,20216.73,06/11/2022
+MSME0220,Rajasthan,Jodhpur,0,Manufacturing,2,No formal education,0,10.0,119300.13,109670.94,09/24/2023
+MSME0221,Uttar Pradesh,Lucknow,1,Manufacturing,13,Secondary,1,5.0,134746.79,170507.11,05/05/2023
+MSME0222,Rajasthan,Ajmer,1,Manufacturing,13,Primary,1,10.0,296579.05,345220.59,06/09/2023
+MSME0223,Maharashtra,Nagpur,0,Agri-processing,15,Graduate,0,13.0,43684.42,50434.78,2023-07-14
+MSME0224,Rajasthan,Jodhpur,0,Services,10,Graduate,0,5.0,43876.75,54469.55,04/01/2022
+MSME0225,Gujarat,Surat,1,MANUFACTURING,3,,1,10.0,70375.15,77125.68,02/25/2022
+MSME0226,Bihar,Gaya,1,SERVICES,19,Primary,0,12.0,68750.7,75670.98,2022-10-02
+MSME0227,Rajasthan,Jodhpur,1,Agri-processing,3,Graduate,1,5.0,89419.45,100300.2,2022-03-24
+MSME0228,Gujarat,Rajkot,1,Retail,14,Primary,0,3.0,67997.52,82855.37,2022-08-18
+MSME0228,Gujarat,Vadodara,0,agri-processing,8,Primary,0,7.0,33361.25,37784.86,2023-01-12
+MSME0230,Maharashtra,Nashik,1,Retail,4,No formal education,1,6.0,96528.9,103761.52,22/12/2023
+MSME0231,Gujarat,Surat,1,Services,11,No formal education,0,4.0,15413.46,18401.26,12/25/2022
+MSME0232,Gujarat,Vadodara,1,Retail,11,Secondary,0,2.0,36485.93,41388.48,2023-06-07
+MSME0233,Gujarat,Rajkot,1,Retail,11,Primary,0,12.0,126878.92,154929.63,19/04/2022
+MSME0234,Gujarat,Surat,1,manufacturing,2,Primary,1,9.0,13357.09,17679.28,11/16/2023
+MSME0235,Uttar Pradesh,Kanpur,1,Services,17,Secondary,0,1.0,21120.92,23705.33,2022-11-08
+MSME0236,Uttar Pradesh,Lucknow,1,Manufacturing,9,Primary,1,13.0,62155.7,59543.0,05/05/2023
+MSME0237,Maharashtra,Nagpur,1,Retail,2,Secondary,0,13.0,49768.1,61490.92,2023-10-23
+MSME0238,Rajasthan,Jaipur,0,Manufacturing,15,Primary,1,11.0,18033.38,16531.73,20/06/2022
+MSME0239,Gujarat,Surat,1,Agri-processing,16,Graduate,1,14.0,26031.04,29507.26,02/21/2022
+MSME0240,Rajasthan,Ajmer,0,Manufacturing,4,Graduate,0,4.0,14120.38,15231.7,2023-01-27
+MSME0241,Rajasthan,Jaipur,1,Retail,8,Primary,0,1.0,79569.65,94226.41,2022-03-12
+MSME0242,Maharashtra,Nagpur,0,Manufacturing,9,Primary,0,13.0,29593.05,29292.03,2022-04-26
+MSME0243,Gujarat,Vadodara,0,Retail,5,Primary,0,6.0,152317.85,143546.14,16/09/2022
+MSME0244,Gujarat,Rajkot,0,Services,16,Graduate,0,4.0,38749.77,27512.75,12/20/2023
+MSME0245,Bihar,Gaya,0,Services,13,,0,5.0,30461.16,32588.33,06/15/2022
+MSME0246,Rajasthan,Jodhpur,1,Manufacturing,7,Primary,0,5.0,28184.93,31592.78,2022-08-04
+MSME0247,Rajasthan,Jodhpur,1,Manufacturing,17,No formal education,0,9.0,29870.9,39550.08,2022-01-05
+MSME0248,Uttar Pradesh,Lucknow,1,Services,3,Primary,0,1.0,39682.16,47450.86,22/11/2022
+MSME0249,Bihar,Patna,1,Manufacturing,5,,0,13.0,271014.08,294801.15,08/08/2023
+MSME0250,Uttar Pradesh,Kanpur,1,SERVICES,19,Graduate,1,2.0,27692.37,35243.81,2023-03-13
+MSME0251,Uttar Pradesh,Agra,1,Services,12,Primary,0,13.0,28421.96,36447.74,2022-04-27
+MSME0252,Uttar Pradesh,Lucknow,0,Services,7,Primary,0,6.0,38272.05,37433.77,27/05/2022
+MSME0253,Maharashtra,Nashik,1,MANUFACTURING,9,Graduate,0,5.0,86874.48,111830.84,10/25/2022
+MSME0254,Maharashtra,Nagpur,0,Manufacturing,6,Graduate,1,11.0,11651.76,11004.73,08/01/2023
+MSME0255,Uttar Pradesh,Kanpur,0,Agri-processing,17,Primary,1,7.0,52264.58,53098.97,2022-02-01
+MSME0256,Bihar,Patna,0,MANUFACTURING,16,Primary,1,3.0,18883.8,19962.84,2022-01-24
+MSME0257,Rajasthan,Jodhpur,1,services,3,Primary,1,3.0,56535.17,,2023-09-23
+MSME0258,Bihar,Patna,1,Retail,4,Graduate,0,10.0,24464.83,29883.18,25/10/2022
+MSME0259,Gujarat,Vadodara,1,Services,10,No formal education,1,2.0,5748.64,6391.02,2022-08-16
+MSME0260,Maharashtra,Nagpur,1,Manufacturing,5,Graduate,1,13.0,48808.61,62268.82,08/13/2022
+MSME0261,Rajasthan,Jaipur,0,Retail,10,Secondary,0,3.0,48480.45,47877.22,11/23/2022
+MSME0262,Rajasthan,Jaipur,1,Retail,12,Secondary,1,10.0,22850.67,24782.97,2022-07-21
+MSME0263,Gujarat,Surat,0,Services,10,,0,1.0,21792.58,20584.54,2023-03-15
+MSME0264,Gujarat,Vadodara,1,Services,13,Primary,1,5.0,12719.63,17465.31,01/12/2023
+MSME0265,Uttar Pradesh,Kanpur,0,Manufacturing,11,Primary,0,14.0,67405.37,62404.0,11/08/2022
+MSME0266,Maharashtra,Nashik,0,Retail,16,No formal education,0,12.0,73553.82,83054.29,06/26/2022
+MSME0267,Maharashtra,Pune,1,services,8,Secondary,1,5.0,17975.4,18324.5,21/07/2022
+MSME0268,Bihar,Gaya,1,Retail,8,Graduate,0,12.0,23577.6,28437.16,2022-12-22
+MSME0269,Uttar Pradesh,Kanpur,1,Manufacturing,8,Secondary,0,11.0,34522.57,40880.41,04/11/2023
+MSME0270,Uttar Pradesh,Lucknow,1,Retail,13,Secondary,0,7.0,223393.98,298552.9,07/08/2022
+MSME0271,Uttar Pradesh,Agra,1,Retail,2,No formal education,1,4.0,56167.71,60365.9,14/10/2023
+MSME0272,Uttar Pradesh,Lucknow,1,Retail,12,Primary,0,3.0,17073.24,17806.94,08/01/2023
+MSME0273,Maharashtra,Nashik,1,Manufacturing,10,No formal education,0,1.0,46305.88,52631.32,01/27/2023
+MSME0274,Maharashtra,Nagpur,1,Retail,12,Secondary,1,12.0,12072.03,16194.06,04/08/2022
+MSME0275,Uttar Pradesh,Agra,1,MANUFACTURING,11,Graduate,1,8.0,64498.18,67614.84,2022-01-07
+MSME0275,Bihar,Gaya,0,Manufacturing,15,Secondary,0,13.0,138751.23,102836.63,2022-03-12
+MSME0277,Rajasthan,Jaipur,1,Manufacturing,16,No formal education,1,3.0,139223.15,161063.55,22/10/2023
+MSME0278,Rajasthan,Jaipur,0,Manufacturing,17,Primary,1,13.0,65376.28,71583.91,27/11/2023
+MSME0279,Bihar,Patna,1,Services,2,,1,2.0,22771.62,,05/17/2023
+MSME0280,Uttar Pradesh,Agra,1,Retail,18,Primary,0,11.0,12826.63,16001.37,2022-01-24
+MSME0281,Maharashtra,Nagpur,0,Manufacturing,12,Graduate,0,4.0,11847.07,10619.82,2023-11-18
+MSME0282,Rajasthan,Jaipur,1,Retail,19,Graduate,0,3.0,3846.91,4359.11,10/07/2022
+MSME0283,Gujarat,Surat,1,Retail,18,Secondary,0,13.0,63264.82,78230.64,2023-05-25
+MSME0284,Gujarat,Vadodara,1,Manufacturing,17,Primary,0,1.0,33447.48,33897.06,2022-05-20
+MSME0285,Bihar,Patna,1,Manufacturing,6,Primary,0,3.0,75159.89,88002.76,12/07/2022
+MSME0286,Uttar Pradesh,Kanpur,1,Agri-processing,15,No formal education,0,12.0,113825.88,146803.74,07/06/2023
+MSME0287,Rajasthan,Jodhpur,1,Manufacturing,3,Primary,0,,39337.14,47381.68,2022-08-16
+MSME0288,Uttar Pradesh,Kanpur,0,Agri-processing,6,Primary,0,8.0,40813.54,37872.41,04/05/2022
+MSME0289,Rajasthan,Jodhpur,1,Retail,3,Secondary,1,6.0,25047.86,33179.71,2022-09-08
+MSME0290,Bihar,Gaya,1,Retail,1,Secondary,0,9.0,27532.78,33747.34,2022-03-21
+MSME0291,Bihar,Muzaffarpur,1,Retail,13,No formal education,0,8.0,65041.18,60881.7,05/09/2022
+MSME0292,Gujarat,Surat,0,Retail,14,Primary,1,10.0,31586.97,34316.85,12/15/2022
+MSME0293,Uttar Pradesh,Agra,1,Manufacturing,13,No formal education,0,3.0,28135.68,30507.29,05/04/2023
+MSME0294,Gujarat,Surat,1,Services,4,No formal education,1,5.0,35787.23,41964.28,12/01/2023
+MSME0295,Uttar Pradesh,Agra,1,retail,7,Graduate,1,7.0,73796.32,93420.27,2022-08-06
+MSME0296,Gujarat,Vadodara,0,Agri-processing,10,No formal education,0,5.0,20865.88,19719.09,2023-06-04
+MSME0297,Maharashtra,Pune,1,Services,7,Primary,1,8.0,34433.22,,14/07/2023
+MSME0298,Maharashtra,Pune,1,Retail,15,No formal education,0,12.0,44188.61,58467.61,12/11/2023
+MSME0299,Maharashtra,Nashik,1,Retail,15,Graduate,0,5.0,91874.38,117960.01,2023-10-21
+MSME0300,Maharashtra,Nashik,0,RETAIL,4,Secondary,0,1.0,29988.3,29726.63,2022-04-10
+MSME0301,Rajasthan,Jaipur,1,Retail,6,Primary,0,,20450.06,25524.61,2023-05-09
+MSME0302,Maharashtra,Nashik,1,Retail,5,Secondary,1,4.0,24649.48,27299.81,2022-05-09
+MSME0303,Bihar,Muzaffarpur,0,Manufacturing,12,Secondary,0,6.0,84326.04,85143.75,07/11/2022
+MSME0304,Bihar,Muzaffarpur,0,Retail,1,Graduate,0,3.0,184728.83,182063.41,2022-05-04
+MSME0305,Rajasthan,Jodhpur,1,Manufacturing,8,,0,11.0,12695.38,14119.44,09/12/2023
+MSME0306,Maharashtra,Nagpur,0,Agri-processing,1,Graduate,0,5.0,15119.77,15663.03,04/22/2022
+MSME0307,Maharashtra,Nashik,1,Services,5,Graduate,0,2.0,31728.24,32079.14,14/03/2023
+MSME0307,Maharashtra,Nashik,1,Agri-processing,6,Graduate,0,11.0,39686.44,44491.21,11/06/2022
+MSME0309,Gujarat,Vadodara,1,Retail,3,Secondary,1,6.0,68157.44,80845.98,05/12/2022
+MSME0310,Uttar Pradesh,Kanpur,0,Manufacturing,15,Secondary,0,13.0,17802.49,21074.77,18/03/2022
+MSME0311,Gujarat,Surat,1,Manufacturing,5,Primary,0,12.0,15514.23,15758.32,2022-01-04
+MSME0312,Uttar Pradesh,Lucknow,1,Retail,14,Secondary,0,6.0,40557.25,,23/07/2023
+MSME0313,Maharashtra,Nagpur,1,Retail,18,Secondary,0,5.0,29533.47,36103.69,2022-05-09
+MSME0314,Maharashtra,Nashik,0,Services,16,Secondary,1,6.0,76219.82,61915.5,2023-03-03
+MSME0315,Gujarat,Rajkot,1,Services,6,Primary,0,11.0,53631.28,64207.97,2023-04-06
+MSME0316,Gujarat,Rajkot,1,Manufacturing,14,Secondary,0,7.0,56630.53,70857.97,2022-11-13
+MSME0317,Uttar Pradesh,Agra,1,manufacturing,8,Graduate,0,12.0,33403.47,40675.23,11/05/2022
+MSME0318,Bihar,Patna,1,Manufacturing,7,No formal education,1,5.0,239058.65,272610.14,2022-06-17
+MSME0319,Uttar Pradesh,Kanpur,1,Retail,8,Graduate,0,1.0,18579.27,22078.16,2022-10-15
+MSME0320,Gujarat,Rajkot,0,Retail,13,Secondary,0,8.0,59198.29,60203.74,07/26/2023
+MSME0321,Gujarat,Surat,1,RETAIL,6,Graduate,1,4.0,13150.93,12568.51,12/08/2022
+MSME0322,Rajasthan,Ajmer,1,Retail,18,Primary,0,9.0,15386.19,18036.19,15/11/2022
+MSME0323,Gujarat,Vadodara,0,Agri-processing,2,Primary,1,14.0,22339.76,21519.74,2022-04-10
+MSME0324,Rajasthan,Jaipur,1,Manufacturing,8,Graduate,1,10.0,133714.03,142933.0,23/05/2022
+MSME0325,Bihar,Gaya,1,Services,11,Primary,0,12.0,44851.64,64396.72,10/02/2022
+MSME0326,Uttar Pradesh,Kanpur,0,Retail,1,Graduate,0,6.0,22643.26,25479.59,08/14/2023
+MSME0327,Uttar Pradesh,Lucknow,1,Manufacturing,6,Primary,0,1.0,48998.7,49867.46,27/05/2022
+MSME0328,Rajasthan,Jaipur,1,Retail,16,Secondary,0,3.0,37351.12,44442.73,2022-12-11
+MSME0329,Uttar Pradesh,Lucknow,1,Retail,12,Primary,1,3.0,24499.83,32282.76,02/19/2023
+MSME0330,Gujarat,Surat,1,Retail,11,Secondary,0,10.0,11881.01,11618.88,2023-12-25
+MSME0331,Maharashtra,Pune,1,Services,10,Primary,0,12.0,114787.05,133021.33,2023-03-08
+MSME0332,Rajasthan,Jaipur,1,Services,3,No formal education,1,12.0,42952.69,50008.46,10/06/2022
+MSME0333,Uttar Pradesh,Lucknow,1,Manufacturing,13,Primary,0,4.0,206693.17,207402.81,2022-03-06
+MSME0334,Rajasthan,Ajmer,1,Manufacturing,3,No formal education,0,,77053.66,91974.96,2022-10-19
+MSME0335,Rajasthan,Jodhpur,0,Agri-processing,15,Graduate,0,7.0,56446.91,62747.77,11/10/2022
+MSME0336,Maharashtra,Pune,0,retail,16,Graduate,0,10.0,25638.14,,05/04/2022
+MSME0337,Gujarat,Rajkot,1,Retail,13,Primary,1,4.0,15119.24,16953.56,25/01/2023
+MSME0338,Rajasthan,Ajmer,1,Retail,17,Secondary,0,6.0,30510.17,43864.14,07/16/2022
+MSME0339,Uttar Pradesh,Agra,0,services,3,Primary,0,11.0,14773.14,11732.88,2022-05-12
+MSME0340,Bihar,Gaya,1,Agri-processing,11,Secondary,0,1.0,61092.98,72759.6,12/26/2023
+MSME0341,Rajasthan,Jaipur,1,Retail,19,Graduate,0,14.0,134070.63,132406.29,02/02/2022
+MSME0342,Rajasthan,Ajmer,0,Agri-processing,11,Graduate,0,8.0,29474.19,29739.99,04/04/2022
+MSME0343,Maharashtra,Nagpur,1,Services,16,Primary,0,7.0,77311.1,84267.61,10/16/2022
+MSME0344,Gujarat,Vadodara,0,Retail,3,Secondary,0,11.0,20923.26,21983.81,2023-03-03
+MSME0345,Bihar,Gaya,0,Manufacturing,6,Primary,1,11.0,28510.47,28148.72,2023-05-27
+MSME0346,Uttar Pradesh,Agra,1,Manufacturing,14,Graduate,0,,18921.02,19961.9,10/08/2022
+MSME0347,Bihar,Patna,1,Agri-processing,18,No formal education,0,3.0,6591.22,7003.61,07/15/2022
+MSME0348,Uttar Pradesh,Agra,1,Retail,17,Secondary,0,2.0,35269.48,48397.94,03/14/2023
+MSME0349,Gujarat,Rajkot,0,SERVICES,4,Secondary,1,1.0,40245.82,42030.82,04/10/2022
+MSME0350,Uttar Pradesh,Lucknow,0,Retail,15,Secondary,1,3.0,85194.21,70693.06,2022-07-03
+MSME0351,Maharashtra,Pune,0,Services,11,No formal education,0,5.0,68620.77,72400.32,10/03/2023
+MSME0352,Maharashtra,Pune,1,Manufacturing,3,Graduate,1,14.0,69366.71,78218.75,19/05/2022
+MSME0353,Maharashtra,Nagpur,0,Manufacturing,3,No formal education,0,11.0,16660.09,16667.75,2022-11-13
+MSME0354,Maharashtra,Pune,0,Services,16,Secondary,0,2.0,52449.07,56749.3,2023-06-17
+MSME0355,Bihar,Muzaffarpur,0,Services,5,Primary,0,12.0,128807.61,144048.48,2023-06-04
+MSME0356,Gujarat,Surat,0,Agri-processing,10,Primary,0,3.0,49212.07,,05/07/2023
+MSME0357,Uttar Pradesh,Agra,0,retail,19,Secondary,1,4.0,156823.29,156356.87,12/10/2023
+MSME0358,Uttar Pradesh,Kanpur,0,Services,4,Primary,0,7.0,182621.85,172648.67,02/12/2022
+MSME0359,Maharashtra,Nashik,1,Retail,19,No formal education,0,13.0,29296.56,35701.94,2023-01-22
+MSME0360,Maharashtra,Nashik,1,Manufacturing,11,No formal education,1,3.0,20794.59,23358.25,2023-12-07
+MSME0361,Rajasthan,Jaipur,1,MANUFACTURING,2,Primary,0,9.0,19748.45,22777.15,12/17/2022
+MSME0362,Gujarat,Surat,0,Manufacturing,10,Secondary,0,8.0,10797.73,10505.89,22/06/2022
+MSME0362,Bihar,Muzaffarpur,1,Manufacturing,11,Graduate,0,4.0,23987.25,27292.6,22/12/2022
+MSME0364,Uttar Pradesh,Lucknow,0,Agri-processing,16,No formal education,0,13.0,95428.48,111695.71,2023-06-27
+MSME0365,Rajasthan,Jodhpur,0,Retail,19,Primary,0,1.0,6227.75,7716.66,05/08/2023
+MSME0366,Rajasthan,Jodhpur,0,Services,11,No formal education,1,1.0,15835.94,16433.1,05/26/2022
+MSME0367,Uttar Pradesh,Lucknow,1,Manufacturing,14,No formal education,0,,32803.64,37347.06,19/08/2022
+MSME0368,Bihar,Gaya,1,Retail,2,Secondary,0,1.0,18002.25,17399.2,12/12/2022
+MSME0369,Rajasthan,Jaipur,1,Retail,5,Secondary,1,8.0,23817.39,25307.21,04/01/2023
+MSME0370,Rajasthan,Ajmer,0,Agri-processing,5,No formal education,1,3.0,24104.08,,12/02/2022
+MSME0371,Gujarat,Rajkot,0,Agri-processing,19,Primary,0,6.0,29553.81,,2023-12-12
+MSME0371,Bihar,Gaya,0,Agri-processing,12,No formal education,0,3.0,20260.66,19024.96,01/25/2023
+MSME0373,Rajasthan,Jaipur,1,Agri-processing,18,Graduate,0,11.0,18977.88,25262.78,11/11/2023
+MSME0374,Bihar,Patna,0,retail,4,Graduate,0,5.0,76683.96,76904.74,08/04/2023
+MSME0375,Uttar Pradesh,Kanpur,0,Manufacturing,17,No formal education,0,13.0,84096.76,85090.89,07/12/2023
+MSME0376,Maharashtra,Nashik,1,Services,10,Primary,0,14.0,12034.89,12907.04,11/08/2022
+MSME0377,Rajasthan,Jodhpur,0,Manufacturing,6,,1,13.0,3993.1,4463.3,2022-12-15
+MSME0378,Gujarat,Rajkot,1,Manufacturing,14,Graduate,0,7.0,85024.94,,2022-02-14
+MSME0379,Uttar Pradesh,Lucknow,1,Manufacturing,11,Primary,1,2.0,13588.24,14812.54,2023-09-12
+MSME0380,Bihar,Muzaffarpur,0,Manufacturing,11,No formal education,0,6.0,43053.37,36247.71,2022-03-05
+MSME0381,Uttar Pradesh,Kanpur,1,Manufacturing,18,No formal education,1,13.0,10378.2,11862.0,19/02/2023
+MSME0381,Rajasthan,Jaipur,0,Retail,18,Secondary,0,6.0,102560.07,96898.16,2023-01-22
+MSME0383,Bihar,Gaya,0,Manufacturing,11,Primary,1,11.0,277877.13,324687.75,10/22/2022
+MSME0384,Maharashtra,Nagpur,1,Manufacturing,12,No formal education,0,3.0,42034.48,57252.99,2023-09-24
+MSME0385,Uttar Pradesh,Agra,1,Manufacturing,5,Secondary,0,6.0,33681.97,33949.49,2023-05-15
+MSME0386,Rajasthan,Jodhpur,1,retail,9,No formal education,0,10.0,28065.28,28653.31,2023-04-25
+MSME0387,Gujarat,Rajkot,1,Services,9,Secondary,1,10.0,67876.11,75900.65,22/05/2022
+MSME0388,Bihar,Patna,1,Retail,10,Primary,0,14.0,57190.86,60402.45,13/05/2023
+MSME0389,Uttar Pradesh,Agra,1,MANUFACTURING,19,No formal education,0,5.0,81048.15,95231.82,2022-05-17
+MSME0390,Uttar Pradesh,Lucknow,1,Services,1,Secondary,0,12.0,21975.13,24445.98,2023-06-27
+MSME0391,Maharashtra,Nashik,1,Manufacturing,7,Primary,0,2.0,47671.75,56360.46,05/06/2023
+MSME0392,Maharashtra,Nagpur,1,Retail,4,Graduate,0,9.0,23529.86,29808.82,09/05/2023
+MSME0393,Gujarat,Rajkot,0,services,1,Secondary,0,8.0,15581.31,13923.11,10/12/2023
+MSME0394,Gujarat,Rajkot,0,Manufacturing,15,Primary,1,3.0,35143.24,38640.74,2022-03-21
+MSME0395,Rajasthan,Jaipur,1,Services,8,Secondary,1,8.0,17361.14,18510.54,2022-10-21
+MSME0396,Rajasthan,Jodhpur,1,Services,12,Primary,1,,92872.38,129749.73,03/21/2023
+MSME0397,Gujarat,Rajkot,0,SERVICES,18,Graduate,0,9.0,18223.44,21177.41,01/05/2023
+MSME0398,Gujarat,Vadodara,0,Manufacturing,15,Primary,1,14.0,48573.66,48024.39,04/26/2023
+MSME0399,Bihar,Muzaffarpur,0,Retail,17,Secondary,1,3.0,22409.99,20250.6,02/20/2022
+MSME0400,Maharashtra,Nashik,0,Retail,14,No formal education,1,3.0,45326.64,40092.02,12/19/2023
+MSME0401,Rajasthan,Jodhpur,1,manufacturing,14,Primary,0,2.0,23880.15,29861.34,07/12/2023
+MSME0402,Maharashtra,Nashik,1,Manufacturing,18,Graduate,0,8.0,13282.88,15228.87,08/14/2023
+MSME0403,Maharashtra,Nagpur,1,Manufacturing,18,Graduate,1,10.0,53477.6,67199.4,05/14/2022
+MSME0404,Gujarat,Rajkot,1,Retail,16,Primary,0,1.0,30081.56,42219.05,2023-07-16
+MSME0405,Bihar,Patna,1,Retail,1,Primary,0,8.0,45651.33,48454.59,27/12/2022
+MSME0406,Uttar Pradesh,Kanpur,1,Manufacturing,11,Graduate,0,7.0,25768.95,25988.87,2022-04-12
+MSME0407,Bihar,Muzaffarpur,1,Retail,15,Graduate,1,14.0,12552.19,,2023-07-04
+MSME0408,Bihar,Muzaffarpur,0,Services,12,No formal education,1,7.0,86382.72,96271.46,08/07/2023
+MSME0409,Maharashtra,Pune,0,Retail,8,Primary,1,3.0,65473.86,59316.3,2023-08-16
+MSME0410,Bihar,Gaya,1,Manufacturing,6,Primary,0,1.0,23073.3,26626.16,2023-06-22
+MSME0411,Rajasthan,Ajmer,0,Agri-processing,3,Graduate,0,4.0,38400.41,43661.43,13/06/2023
+MSME0412,Maharashtra,Pune,1,Retail,13,No formal education,0,9.0,83584.68,80426.78,2023-03-21
+MSME0413,Rajasthan,Ajmer,0,Manufacturing,13,Primary,0,5.0,25194.21,25787.07,06/02/2022
+MSME0414,Uttar Pradesh,Kanpur,1,Retail,2,Secondary,0,1.0,28523.75,31030.65,07/07/2022
+MSME0415,Maharashtra,Nashik,0,Services,5,No formal education,0,5.0,44130.48,44678.39,08/05/2022
+MSME0416,Uttar Pradesh,Agra,0,Manufacturing,17,Primary,0,13.0,25152.87,26938.18,02/20/2023
+MSME0417,Maharashtra,Nashik,1,Manufacturing,6,Primary,0,8.0,72090.21,84734.33,02/25/2023
+MSME0418,Gujarat,Rajkot,1,Manufacturing,2,Primary,1,8.0,31725.61,32798.71,03/05/2023
+MSME0419,Bihar,Patna,1,Agri-processing,4,Primary,0,5.0,19395.01,21186.27,25/05/2023
+MSME0420,Gujarat,Surat,1,retail,11,Secondary,1,12.0,59095.56,77655.0,2022-06-17
+MSME0421,Uttar Pradesh,Kanpur,1,Retail,8,No formal education,0,9.0,14563.82,17299.3,09/17/2023
+MSME0422,Bihar,Patna,0,AGRI-PROCESSING,12,Secondary,0,1.0,182025.64,197321.61,14/08/2022
+MSME0423,Maharashtra,Pune,1,MANUFACTURING,8,Graduate,0,4.0,128797.55,151824.49,19/12/2023
+MSME0424,Bihar,Gaya,0,Agri-processing,11,Secondary,0,3.0,54764.44,59195.52,11/07/2023
+MSME0425,Rajasthan,Jaipur,0,Manufacturing,8,No formal education,0,2.0,51198.46,49170.26,06/08/2023
+MSME0426,Bihar,Patna,1,Services,8,No formal education,1,8.0,49313.5,52357.93,2022-05-11
+MSME0427,Rajasthan,Jodhpur,1,Manufacturing,17,Primary,0,7.0,24556.31,30396.42,2022-02-23
+MSME0428,Bihar,Gaya,1,Services,16,Primary,0,9.0,46066.8,58949.28,12/13/2022
+MSME0429,Rajasthan,Jodhpur,0,AGRI-PROCESSING,14,,0,2.0,17352.54,15766.03,07/05/2022
+MSME0430,Uttar Pradesh,Agra,1,Manufacturing,11,Secondary,1,14.0,54342.11,58894.15,2022-11-27
+MSME0431,Gujarat,Rajkot,0,Retail,7,No formal education,1,14.0,72713.15,71526.28,01/10/2022
+MSME0432,Maharashtra,Nagpur,0,Retail,16,No formal education,1,4.0,26836.85,31183.95,01/25/2022
+MSME0433,Bihar,Gaya,1,Retail,13,Primary,0,14.0,22559.66,27404.58,12/15/2023
+MSME0434,Gujarat,Vadodara,1,retail,15,Secondary,1,6.0,13766.84,13735.59,2022-12-06
+MSME0435,Maharashtra,Nashik,0,Retail,16,No formal education,1,11.0,116583.63,115499.61,08/04/2023
+MSME0436,Maharashtra,Nashik,0,Manufacturing,9,Secondary,0,3.0,24039.86,23448.78,2022-11-02
+MSME0437,Rajasthan,Jaipur,1,Manufacturing,3,Primary,1,8.0,30977.26,31444.21,20/09/2022
+MSME0438,Uttar Pradesh,Lucknow,1,Manufacturing,19,Graduate,0,3.0,46171.8,52541.15,08/01/2022
+MSME0439,Uttar Pradesh,Kanpur,0,Services,5,Graduate,1,14.0,45513.58,44193.52,12/23/2022
+MSME0440,Gujarat,Rajkot,1,Retail,10,Primary,1,12.0,65989.31,73143.36,11/13/2023
+MSME0441,Uttar Pradesh,Agra,0,Retail,17,Primary,0,13.0,26810.16,25717.96,11/19/2023
+MSME0442,Bihar,Muzaffarpur,1,Retail,15,Primary,0,13.0,14604.22,19266.03,12/08/2022
+MSME0443,Uttar Pradesh,Kanpur,1,Manufacturing,8,Primary,1,2.0,12696.32,14069.74,2023-02-26
+MSME0444,Gujarat,Surat,0,RETAIL,15,Secondary,0,13.0,22847.47,22960.96,08/08/2023
+MSME0445,Uttar Pradesh,Kanpur,1,Retail,14,Graduate,0,13.0,16958.42,19387.58,2023-08-10
+MSME0446,Bihar,Patna,1,Manufacturing,7,,1,3.0,28484.25,31102.61,17/09/2022
+MSME0447,Rajasthan,Jaipur,1,Services,12,Graduate,0,11.0,103369.27,119819.78,13/03/2023
+MSME0448,Gujarat,Vadodara,1,Retail,17,Primary,0,6.0,26854.2,31084.15,27/05/2022
+MSME0449,Rajasthan,Jaipur,0,Services,17,No formal education,0,2.0,26846.19,27060.31,11/06/2022
+MSME0450,Rajasthan,Jaipur,1,SERVICES,10,Secondary,0,8.0,35842.19,37676.89,2022-06-23
+MSME0451,Rajasthan,Ajmer,1,Services,19,Primary,0,1.0,26252.07,29567.59,2022-12-11
+MSME0452,Maharashtra,Pune,0,Agri-processing,14,Secondary,0,7.0,34409.47,37025.69,06/02/2022
+MSME0453,Maharashtra,Nagpur,0,Retail,11,Primary,0,2.0,55976.96,54970.4,18/04/2023
+MSME0454,Rajasthan,Jodhpur,1,Retail,2,No formal education,0,10.0,73703.15,86129.87,08/08/2022
+MSME0455,Gujarat,Surat,1,Agri-processing,18,Graduate,1,12.0,81029.66,94740.63,12/04/2023
+MSME0456,Bihar,Muzaffarpur,0,Manufacturing,7,No formal education,0,6.0,188241.65,196098.76,03/06/2022
+MSME0457,Bihar,Muzaffarpur,0,manufacturing,12,Graduate,0,12.0,57267.44,60466.69,23/03/2023
+MSME0458,Uttar Pradesh,Lucknow,1,SERVICES,2,Graduate,1,2.0,216984.92,245187.03,13/12/2023
+MSME0459,Gujarat,Surat,1,Services,18,Secondary,0,2.0,19512.58,20394.48,07/16/2023
+MSME0460,Maharashtra,Nagpur,1,Agri-processing,6,Secondary,0,10.0,193499.06,195404.59,07/06/2022
+MSME0461,Rajasthan,Jaipur,0,AGRI-PROCESSING,10,Secondary,0,13.0,26787.73,29513.88,02/04/2023
+MSME0462,Uttar Pradesh,Agra,0,Services,15,Graduate,1,8.0,28980.69,31212.92,2023-02-05
+MSME0463,Bihar,Patna,0,Retail,5,Primary,0,12.0,32994.69,35137.25,2022-12-22
+MSME0464,Maharashtra,Nagpur,0,Agri-processing,3,Primary,0,2.0,30488.46,32961.69,09/27/2022
+MSME0465,Maharashtra,Nagpur,0,Retail,5,Secondary,1,,38897.0,38268.59,21/09/2022
+MSME0466,Rajasthan,Jodhpur,1,Retail,8,Primary,0,3.0,22833.35,24617.53,2022-05-17
+MSME0467,Bihar,Gaya,1,agri-processing,8,Primary,0,8.0,70542.44,73170.36,2023-06-16
+MSME0468,Gujarat,Vadodara,1,Retail,8,Primary,0,7.0,23335.52,23912.49,23/01/2023
+MSME0469,Maharashtra,Pune,1,Retail,12,Secondary,0,14.0,61358.46,79115.49,01/15/2023
+MSME0470,Rajasthan,Jaipur,0,Retail,8,Graduate,1,8.0,123275.74,,01/20/2022
+MSME0471,Gujarat,Surat,1,Agri-processing,11,,0,14.0,27291.16,34695.49,13/07/2023
+MSME0472,Bihar,Patna,1,manufacturing,14,Graduate,0,7.0,68562.89,77373.78,09/11/2022
+MSME0473,Maharashtra,Nagpur,1,Services,8,Secondary,0,11.0,56802.03,60904.97,2023-12-11
+MSME0474,Gujarat,Rajkot,1,Retail,10,Graduate,1,6.0,220203.96,225521.46,03/14/2023
+MSME0475,Gujarat,Surat,1,Services,7,Secondary,0,13.0,24249.12,26246.33,21/01/2022
+MSME0476,Gujarat,Rajkot,1,SERVICES,17,Secondary,0,7.0,68600.65,90079.34,2022-04-19
+MSME0477,Maharashtra,Pune,0,Retail,4,No formal education,0,5.0,9889.13,8816.94,12/05/2022
+MSME0478,Maharashtra,Pune,1,Manufacturing,13,Graduate,0,7.0,24423.8,34032.75,08/17/2022
+MSME0479,Uttar Pradesh,Agra,0,Retail,4,No formal education,0,1.0,48180.72,44130.62,05/02/2022
+MSME0480,Bihar,Gaya,1,Agri-processing,5,Graduate,0,1.0,110694.34,136845.24,09/17/2022
+MSME0481,Rajasthan,Jaipur,1,Services,4,Graduate,0,9.0,13619.44,15434.86,06/01/2023
+MSME0482,Gujarat,Surat,1,Agri-processing,18,Primary,0,14.0,68109.54,75815.15,2022-04-25
+MSME0482,Uttar Pradesh,Lucknow,1,Retail,6,Primary,0,5.0,34524.39,34655.12,07/05/2022
+MSME0484,Rajasthan,Ajmer,0,Services,2,Secondary,1,13.0,10751.26,10645.47,2022-01-24
+MSME0485,Uttar Pradesh,Kanpur,1,Services,11,Primary,0,5.0,41993.47,42698.84,01/01/2022
+MSME0486,Maharashtra,Nashik,1,Services,14,Graduate,1,3.0,142533.02,136349.74,06/27/2022
+MSME0487,Gujarat,Rajkot,0,Agri-processing,5,No formal education,0,5.0,14818.95,14996.18,03/01/2022
+MSME0488,Rajasthan,Jodhpur,1,Manufacturing,6,No formal education,0,3.0,33257.97,35816.39,2022-03-19
+MSME0489,Rajasthan,Ajmer,1,Retail,10,Graduate,0,9.0,16492.96,22161.59,04/04/2022
+MSME0490,Rajasthan,Jodhpur,0,Services,8,Secondary,0,9.0,24962.59,27458.91,09/27/2023
+MSME0491,Rajasthan,Jaipur,0,Services,14,Graduate,0,6.0,114203.37,133588.62,07/07/2023
+MSME0492,Rajasthan,Jodhpur,1,Manufacturing,3,,1,1.0,29225.02,31320.41,26/06/2022
+MSME0493,Uttar Pradesh,Lucknow,0,Retail,12,Secondary,0,7.0,111441.22,112958.36,10/20/2022
+MSME0494,Gujarat,Rajkot,0,manufacturing,16,Secondary,1,7.0,88189.5,65077.94,06/16/2022
+MSME0494,Maharashtra,Nashik,1,Retail,17,Secondary,0,14.0,27168.4,30363.2,13/12/2023
+MSME0496,Maharashtra,Pune,0,Manufacturing,1,Secondary,1,10.0,24292.44,24531.72,05/08/2023
+MSME0497,Maharashtra,Nashik,1,services,10,Secondary,0,10.0,17733.33,20707.48,2022-12-02
+MSME0498,Maharashtra,Nagpur,1,services,10,Primary,1,4.0,17245.3,19748.07,10/22/2022
+MSME0499,Uttar Pradesh,Lucknow,1,Retail,2,Primary,0,8.0,48173.58,55768.53,10/04/2023
+MSME0500,Bihar,Muzaffarpur,1,Manufacturing,9,Secondary,1,6.0,35745.22,29953.67,07/16/2022
+MSME0501,Gujarat,Surat,0,RETAIL,13,Primary,0,4.0,22051.05,22616.05,2022-08-22
+MSME0502,Rajasthan,Jodhpur,1,Retail,16,Secondary,1,4.0,10519.54,12682.31,05/17/2023
+MSME0503,Bihar,Gaya,0,Services,18,,0,2.0,39535.05,44824.95,2022-07-23
+MSME0504,Maharashtra,Nashik,0,Agri-processing,19,,1,14.0,24943.24,25863.0,2023-05-15
+MSME0505,Bihar,Gaya,1,MANUFACTURING,12,Secondary,0,2.0,31062.66,35255.04,08/16/2022
+MSME0506,Gujarat,Surat,0,Services,8,Primary,1,12.0,46338.55,,2022-06-02
+MSME0507,Rajasthan,Jodhpur,1,Agri-processing,17,No formal education,1,14.0,4907.69,4313.4,09/27/2022
+MSME0508,Rajasthan,Jaipur,1,SERVICES,15,No formal education,1,4.0,10650.69,11617.57,17/11/2022
+MSME0508,Gujarat,Surat,0,Retail,10,Secondary,0,5.0,228012.21,210550.81,2022-06-11
+MSME0510,Gujarat,Vadodara,1,Agri-processing,15,Graduate,0,8.0,24214.61,27750.67,2022-12-02
+MSME0511,Maharashtra,Nashik,1,Manufacturing,15,No formal education,1,6.0,4846.7,4348.22,2022-09-01
+MSME0512,Rajasthan,Jodhpur,1,Retail,7,Secondary,0,14.0,11384.95,14820.45,06/02/2022
+MSME0513,Bihar,Patna,1,RETAIL,13,Primary,0,4.0,265023.53,297163.43,15/10/2022
+MSME0513,Uttar Pradesh,Lucknow,1,Manufacturing,17,Primary,1,13.0,20694.06,24556.85,2022-06-25
+MSME0515,Uttar Pradesh,Kanpur,1,Retail,9,Graduate,1,11.0,91785.74,107908.41,08/21/2023
+MSME0516,Gujarat,Rajkot,0,Retail,8,Primary,0,7.0,40010.39,,2023-06-21
+MSME0517,Maharashtra,Nashik,1,Retail,18,Primary,1,8.0,24637.53,23057.67,21/09/2023
+MSME0518,Uttar Pradesh,Lucknow,1,Services,13,No formal education,1,2.0,67531.97,78534.07,07/27/2023
+MSME0519,Rajasthan,Jaipur,1,Agri-processing,16,No formal education,0,12.0,5391.15,6910.44,2023-06-24
+MSME0520,Gujarat,Rajkot,1,Retail,9,Primary,1,7.0,11465.46,13056.08,2023-07-03

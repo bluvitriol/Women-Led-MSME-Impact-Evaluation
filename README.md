@@ -1,12 +1,10 @@
 # Women-Led MSME Impact Evaluation Pipeline
 
 ## Overview
-A reproducible pipeline simulating an RCT impact evaluation 
-of financial access interventions on women-led MSMEs.
+A reproducible pipeline simulating an RCT impact evaluation of financial access interventions on women-led MSMEs.
 
 ## Data
 Synthetic dataset generated to mirror real IE survey structure.
-See codebook.md for variable definitions.
 
 ## How to Reproduce
 1. Run code/01_simulate_data.py

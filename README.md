@@ -43,3 +43,7 @@ Women-Led-MSME-Impact-Evaluation
 
 ### Regression Coefficients
 ![alt text](outputs/figures/03_regression_coefficients.png)
+
+### Authors
+
+Hi! I am Valentina, a constant learner and the author of this project. Here's my [GitHub](https://www.github.com/bluvitriol)
